@@ -34,5 +34,4 @@ See the section about [deployment] for more information.
 This command is used to run both express server and react server simultaneously. The express server wil run at [http://localhost:3002](http://localhost:3002) and the react server will run at [http://localhost:3000](http://localhost:3000).
 
 
-https://github.com/Harikrishh123/Ticket_project/assets/170495607/8718427b-0b9c-477f-b6e6-5a21530e1ae0
 
